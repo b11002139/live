@@ -179,7 +179,7 @@ const Home = ({ tabIndex }: InferGetServerSidePropsType<typeof getServerSideProp
           <h2>
             Open source video conferencing app built on{' '}
             <a href="https://github.com/livekit/components-js?ref=meet" rel="noopener">
-              LiveKit&nbsp;Components
+              7777777
             </a>
             ,{' '}
             <a href="https://livekit.io/cloud?ref=meet" rel="noopener">
